@@ -55,7 +55,7 @@ A Customer Journey Map on Miro with:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/milanavalerio/customer-journey-map-generator.git
+git clone https://github.com/UXVal92/customer-journey-map-generator.git
 cd customer-journey-map-generator
 ```
 
