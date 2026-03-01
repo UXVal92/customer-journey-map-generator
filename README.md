@@ -127,7 +127,7 @@ The included sample uses **PawBox**, a fictitious pet food subscription, with 6 
 
 ## Get the ready-to-run template
 
-Want to skip the setup? [Get the template on Gumroad](https://milanavalerio.gumroad.com) *(link to be updated)* for £5. Includes everything pre-configured with sample transcripts and output.
+Want to skip the setup? [Get the template on Gumroad](https://valeriomilana.gumroad.com/l/customer-journey-map-generator) for £5. Includes everything pre-configured with sample transcripts and output.
 
 ## Licence
 
