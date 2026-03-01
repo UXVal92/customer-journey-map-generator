@@ -1,0 +1,6 @@
+{
+  "name": "Customer Journey Map Generator - AI Template",
+  "description": "A ready-to-run AI pipeline that turns customer call transcripts into a visual Customer Journey Map on Miro.\n\nWhat you get:\n- Two Python AI agents (transcript analyser + insights summariser)\n- Sample call transcripts (PawBox pet food subscription, 6 calls)\n- Pre-configured prompts for structured journey data extraction\n- Step-by-step setup guide\n- Works with Claude Code + Miro MCP for native board creation\n\nThe pipeline extracts stages, touchpoints, emotions, pain points, direct customer quotes, and prioritised actions from your call transcripts, then builds a professional journey map table and insights document directly on your Miro board.\n\nRequires: Python 3.10+, Anthropic API key, Claude Code with Miro MCP.\n\nFull write-up: https://medium.com/@milanavalerio",
+  "price": 500,
+  "published": false
+}

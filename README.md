@@ -2,8 +2,6 @@
 
 Transform customer call transcripts into a visual Customer Journey Map on Miro, using AI agents and the Miro MCP.
 
-![Sample Miro board output](Screenshot%202026-03-01%20011540.png)
-
 > Read the full write-up: [I Built an AI Workflow That Turns Call Transcripts Into a Customer Journey Map on Miro](https://medium.com/@milanavalerio) *(link to be updated)*
 
 ## How it works
